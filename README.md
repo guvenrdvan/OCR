@@ -89,7 +89,3 @@ Bu komut, OCR testleri için iki görüntü oluşturacaktır: temiz bir görünt
 - Tesseract OCR'ın doğruluğu, görüntü kalitesine ve metin formatına bağlıdır
 - En iyi sonuçlar için yüksek kontrastlı, temiz görüntüler kullanın
 - Ön işleme seçeneği, düşük kaliteli görüntülerde tanıma doğruluğunu artırabilir
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın. 
